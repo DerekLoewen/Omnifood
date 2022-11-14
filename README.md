@@ -1,2 +1,2 @@
 # Omnifood
-Html and CSS project
+A fake website for food delivery.
